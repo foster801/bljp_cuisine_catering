@@ -252,7 +252,7 @@
       "edit_address": "Upravit adresu",
       "first_name": "Jméno",
       "last_name": "Příjmení",
-      "company": "Firma",
+      "company": "Společnost",
       "address1": "Adresa",
       "address2": "Byt, apartmán atd.",
       "city": "Město",
@@ -294,7 +294,7 @@
       "cancelled_reason": "Důvod: {{ reason }}",
       "billing_address": "Fakturační adresa",
       "payment_status": "Stav platby",
-      "shipping_address": "Doručovací adresa",
+      "shipping_address": "Dodací adresa",
       "fulfillment_status": "Stav plnění",
       "discount": "Sleva",
       "shipping": "Expedice",
@@ -401,12 +401,12 @@
       "disabled": "Vypnuto",
       "expired": "Vypršelo dne {{ expiry }}",
       "active": "Vyprší dne {{ expiry }}",
-      "redeem_html": "Tento kód můžete použít na pokladně, a využít tak svou dárkovou kartu v hodnotě {{ value }}",
+      "redeem_html": "Tento kód můžete použít na pokladně a uplatnit tak svou dárkovou kartu v hodnotě {{ value }}",
       "shop_link": "Začít nakupovat",
       "print": "Vytisknout tuto dárkovou kartu",
       "remaining_html": "{{ balance }} zbývá",
       "add_to_apple_wallet": "Přidat do Apple Wallet",
-      "qr_image_alt": "QR kód — naskenováním využijete svou dárkovou kartu"
+      "qr_image_alt": "QR kód — naskenováním uplatníte svou dárkovou kartu"
     }
   }
 }
