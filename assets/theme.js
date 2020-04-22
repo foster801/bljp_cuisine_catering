@@ -3388,7 +3388,8 @@ theme.Video = (function() {
   }
 
   function getVideoOptions(evt) {
-    return videos[evt.target.a.id];
+    var id = evt.target.getIframe().id;
+    return videos[id];
   }
 
   function toggleExpandVideo(playerId, expand) {
