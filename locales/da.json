@@ -73,7 +73,7 @@
       }
     },
     "newsletter_form": {
-      "newsletter_email": "Tilmeld dig vores distributionsliste",
+      "newsletter_email": "Tilmeld dig vores adresseliste",
       "email_placeholder": "E-mailadresse",
       "confirmation": "Tak for dit abonnement.",
       "submit": "Abonnér"
@@ -385,7 +385,7 @@
       "quantity_minimum_message": "Antal skal være 1 eller mere",
       "include_taxes": "Inklusive moms.",
       "shipping_policy_html": "<a href=\"{{ link }}\">Levering<\/a> beregnes ved betaling.",
-      "unit_price_label": "Pris pr. stk.",
+      "unit_price_label": "Stykpris",
       "view_cart": "Se indkøbskurv",
       "availability": "Tilgængelighed",
       "from_lowest_price_html": "fra {{ lowest_price }}",
