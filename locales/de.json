@@ -83,7 +83,7 @@
       "show_less": "Weniger anzeigen"
     },
     "payment": {
-      "method": "Zahlungsarten"
+      "method": "Zahlungsmethoden"
     },
     "currency": {
       "dropdown_label": "Währung"

@@ -73,7 +73,7 @@
       }
     },
     "newsletter_form": {
-      "newsletter_email": "Subscreva a nossa lista de contactos",
+      "newsletter_email": "Subscreva a nossa lista de correio",
       "email_placeholder": "Endereço de correio eletrónico",
       "confirmation": "Agradecemos a sua subscrição!",
       "submit": "Subscrever"
@@ -341,7 +341,7 @@
       "product_description": "Esta área é usada para descrever o seu produto detalhadamente. Informe o cliente do aspeto, toque e estilo do seu produto. Adicione detalhes sobre a cor, materiais usados, tamanhos e onde foi fabricado.",
       "collection_title": "O nome da sua coleção",
       "blog_title": "O título do seu post",
-      "blog_excerpt": "A sua loja não publicou ainda qualquer post no blogue. Um blogue pode ser usado para falar de lançamentos de novos produtos, dicas e outras notícias que deseje partilhar com os seus clientes. Veja o blogue de comércio eletrónico da Shopify para se inspirar e obter alguns conselhos para a sua própria loja e blogue.",
+      "blog_excerpt": "A sua loja não publicou ainda qualquer post no blogue. Um blogue pode ser usado para falar de lançamentos de novos produtos, sugestões e outras notícias que deseje partilhar com os seus clientes. Veja o blogue de comércio eletrónico da Shopify para se inspirar e obter alguns conselhos para a sua própria loja e blogue.",
       "blog_author": "Nome do autor",
       "no_content": "Esta sección actualmente no incluye ningún contenido. Añade un contenido a esta sección utilizando la barra lateral."
     }

@@ -350,7 +350,7 @@
     "navigation": {
       "search": "Pesquisar",
       "expand": "expandir",
-      "collapse": "colapsar",
+      "collapse": "recolher",
       "menu": "Menu"
     },
     "cart": {
@@ -363,7 +363,7 @@
     "customer": {
       "account": "Conta",
       "log_out": "Sair",
-      "log_in": "Entrar",
+      "log_in": "Fazer login",
       "create_account": "Criar conta"
     },
     "footer": {

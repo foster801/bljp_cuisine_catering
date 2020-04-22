@@ -401,12 +401,12 @@
       "disabled": "Wyłączone",
       "expired": "Wygasła dnia {{ expiry }}",
       "active": "Wygasa dnia {{ expiry }}",
-      "redeem_html": "Użyj tego kodu przy kasie, aby zrealizować swoją kartę prezentową na {{ value }}",
+      "redeem_html": "Użyj tego kodu przy kasie, aby wykorzystać swoją kartę prezentową na {{ value }}",
       "shop_link": "Rozpocznij zakupy",
       "print": "Wydrukuj tę kartę prezentową",
       "remaining_html": "{{ balance }} lewo",
       "add_to_apple_wallet": "Dodaj do Apple Wallet",
-      "qr_image_alt": "Kod QR — zeskanuj, aby zrealizować kartę prezentową"
+      "qr_image_alt": "Kod QR — zeskanuj, aby wykorzystać kartę prezentową"
     }
   }
 }

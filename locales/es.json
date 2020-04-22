@@ -73,7 +73,7 @@
       }
     },
     "newsletter_form": {
-      "newsletter_email": "Suscríbete a nuestra lista de correo",
+      "newsletter_email": "Suscríbete a nuestra lista de distribución",
       "email_placeholder": "Dirección de correo electrónico",
       "confirmation": "¡Gracias por suscribirte!",
       "submit": "Suscribirse"
@@ -252,7 +252,7 @@
       "edit_address": "Editar dirección",
       "first_name": "Nombre",
       "last_name": "Apellido",
-      "company": "Compañía",
+      "company": "Empresa",
       "address1": "Dirección",
       "address2": "Apartamento, suite, etc.",
       "city": "Ciudad",
@@ -334,7 +334,7 @@
   },
   "homepage": {
     "general": {
-      "title": "Inicio"
+      "title": "Página de inicio"
     },
     "onboarding": {
       "product_title": "Nombre de tu producto",
