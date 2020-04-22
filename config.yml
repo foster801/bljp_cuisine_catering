@@ -1,0 +1,18 @@
+development:
+  password: 217a0b242e0c308239e28d34fa3b0823
+  theme_id: "95991300155"
+  store: bljp-cuisine-catering.myshopify.com
+  ignore_files:
+    - "*.gif"
+    - "*.jpg"
+    - config/settings_data.json
+
+production:
+  password: 217a0b242e0c308239e28d34fa3b0823
+  theme_id: "90671153211"
+  store: bljp-cuisine-catering.myshopify.com
+  readonly: true
+  ignore_files:
+    - "*.gif"
+    - "*.jpg"
+    - config/settings_data.json
